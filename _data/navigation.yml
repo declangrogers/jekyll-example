@@ -1,11 +1,11 @@
 main:
 - title: "Home"
-  url: /Home
+  url: /home
 - title: "History"
-  url: /History
-  title: "Activities"
-  url: Activities
-  title: "Dining"
-  url: /Dining
-  Title: "Blog"
-  url: /Blog
+  url: /history
+- title: "Activities"
+  url: /activities
+- title: "Dining"
+  url: /dining
+- Title: "Blog"
+  url: /blog
