@@ -7,5 +7,7 @@ main:
   url: /activities
 - title: "Dining"
   url: /dining
-- Title: "Blog"
-  url: /best-deck-views
+- title: "Best Deck Views"
+  url: /best-deck-views.md
+- title: "When To Visit"
+  url: /best-times-to-visit.md
