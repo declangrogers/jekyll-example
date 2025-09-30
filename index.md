@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Welcome to Decland!
-excerpt: Discover Declan on Decland
+excerpt: Relaxation in Layers 
 header:
     overlay_image: /assets/images/Decland.jpg
     actions:
