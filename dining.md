@@ -1,4 +1,4 @@
 ---
 title: Dining
-layout: page
+layout: single
 ---

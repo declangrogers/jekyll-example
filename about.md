@@ -1,6 +1,6 @@
 ---
 title: About
-layout: page
+layout: single
 ---
 
 Welcome to Decland! Experience an epic getaway featuring millions of decks scattered across the island. Each deck is crafted from different materials-- glass, teak, stone... You name it!
