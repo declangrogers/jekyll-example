@@ -5,8 +5,8 @@ excerpt: Relaxation in Layers
 header:
     overlay_image: /assets/images/Decland.jpg
     actions:
-        - label: Learn More - Blogs
-          url: /best-deck-views
+        - label: Book Your Stay
+          url: /
     overlay_filter: rgba(161, 162, 167, 0.2)
 ---
 
