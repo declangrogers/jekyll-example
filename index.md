@@ -1,13 +1,14 @@
 ---
 layout: home
-title: Welcome Home!
-excerpt: This is a test excerpt
+title: Welcome to Decland!
+excerpt: Discover Declan on Decland
 header:
     overlay_image: /assets/images/trees.jpg
     actions:
-        - label: "Learn  More"
+        - label: "Hear what others had to say"
           url: /about
-    overlay_filter: rgba(79,99,82,0.5)
+    overlay_filter: rgba(21, 49, 134, 0.5)
 ---
 
-# This is my home page
+# Welcome
+

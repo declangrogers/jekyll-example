@@ -1,0 +1,4 @@
+---
+title: Dining
+layout: page
+---
