@@ -7,8 +7,6 @@ header:
     actions:
         - label:
           url: /about
-    overlay_filter: rgba(21, 49, 134, 0.5)
+    overlay_filter: rgba(161, 162, 167, 0.2)
 ---
-
-# Welcome
 
