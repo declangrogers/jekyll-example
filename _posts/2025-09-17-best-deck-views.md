@@ -4,6 +4,7 @@ title: Best Deck Views
 author_profile: true
 ---
 
+
 # 1. Bendy Bamboo Deck
 
 Constructed entirely from hand picked bamboo, these planks will make you never want to leave!
