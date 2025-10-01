@@ -7,6 +7,8 @@ header:
     actions:
         - label: Book Your Stay
           url: /
-    overlay_filter: rgba(161, 162, 167, 0.2)
+        - label: Blogs
+          url: /_posts
+    overlay_filter: rgba(161, 162, 167, 0.1)
 ---
 
