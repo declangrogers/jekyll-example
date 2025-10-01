@@ -4,11 +4,11 @@ title: Best Times to Visit
 author_profile: true
 ---
 
-#
+
 
 # Winter
 
-Winter is cozy and charming, with less tourists due to the slightly lower temperature enjoy peace and beautiful sunsets
+Winter is cozy and charming, with less tourists due to the slightly lower temperature enjoy peace and beautiful sunsets.
 
 # Summer
 

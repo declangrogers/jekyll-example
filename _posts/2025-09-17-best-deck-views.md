@@ -4,7 +4,7 @@ title: Best Deck Views
 author_profile: true
 ---
 
-# 
+
 
 # 1. Bendy Bamboo Deck
 
