@@ -2,6 +2,7 @@
 layout: single
 title: Best Deck Views
 author_profile: true
+excerpt: ""
 ---
 
 
